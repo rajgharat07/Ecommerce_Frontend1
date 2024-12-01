@@ -1,4 +1,4 @@
-const backendDomin = "https://ecommerce-backend-gh2o.onrender.com:8080"
+const backendDomin = "https://ecommerce-backend-1-7rjc.onrender.com:8080"
 
 const SummaryApi = {
     signUP : {
